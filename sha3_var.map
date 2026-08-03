@@ -1,0 +1,7 @@
+MSG_BITS=64
+msg1_start=1
+msg1_end=64
+msg2_start=65
+msg2_end=128
+total_vars=310636
+total_clauses=1156185
